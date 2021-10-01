@@ -1,5 +1,3 @@
-![visitantes](https://visitor-badge.glitch.me/badge?page_id=guibmolina&left_color=green&right_color=red)
-
 ### Sobre mim 
 - 👨‍💻 Desenvolvedor backend na [Vaipe](https://vaipe.com.br/).
 - 👨‍🎓 Formação em tecnológo de sistemas para internet pela FMU.
