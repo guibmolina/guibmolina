@@ -1,6 +1,8 @@
+![Visits Badge](https://badges.pufler.dev/visits/guibmolina/guibmolina)
 ### Sobre mim 
 - 👨‍💻 Desenvolvedor backend na [Vaipe](https://vaipe.com.br/).
 - 👨‍🎓 Formação em tecnológo de sistemas para internet pela FMU.
+- 🔗 [Bolg](https://guibmolina.github.io/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guibmolina&show_icons=true&theme=default" />
