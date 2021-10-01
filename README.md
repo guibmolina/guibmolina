@@ -1,4 +1,3 @@
-![Visits Badge](https://badges.pufler.dev/visits/guibmolina/guibmolina)
 ### Sobre mim 
 - 👨‍💻 Desenvolvedor backend na [Vaipe](https://vaipe.com.br/).
 - 👨‍🎓 Formação em tecnológo de sistemas para internet pela FMU.
