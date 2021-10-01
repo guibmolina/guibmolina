@@ -1,16 +1,13 @@
-### Hi there 👋
+![visitantes](https://visitor-badge.glitch.me/badge?page_id=guibmolina&left_color=green&right_color=red)
 
-<!--
-**guibmolina/guibmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim 
+- 👨‍💻 Desenvolvedor backend na [Vaipe](https://vaipe.com.br/).
+- 👨‍🎓 Formação em tecnológo de sistemas para internet pela FMU.
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guibmolina&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibmolina" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
